@@ -1,4 +1,4 @@
-# Welcome to Code Cats 🐱
+# Welcome to Code Cats 
 
 ## About Us
 Welcome to the official GitHub organization for the Code Cats, the high school coding club! We are a group of enthusiastic students passionate about learning and sharing knowledge in the field of computer science and programming.
